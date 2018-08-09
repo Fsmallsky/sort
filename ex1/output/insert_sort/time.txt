@@ -1,0 +1,6 @@
+INSERTION_SORT
+size=2^2     time=2.138273 us
+size=2^5     time=42.765452 us
+size=2^8     time=1111.901831 us
+size=2^11    time=95428.116620 us
+size=2^14    time=2460334.539413 us

@@ -1,0 +1,7 @@
+MERGE_SORT
+size=2^2     time=7.697781 us
+size=2^5     time=29.935818 us
+size=2^8     time=435.779977 us
+size=2^11    time=3140.694927 us
+size=2^14    time=28830.330819 us
+size=2^17    time=260307.759047 us

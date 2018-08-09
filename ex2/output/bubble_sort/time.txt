@@ -1,0 +1,7 @@
+BUBBLE_SORT
+size=2^2    time=0.427654 us
+size=2^5    time=7.270115 us
+size=2^8    time=437.489856 us
+size=2^11   time=23966.146633 us
+size=2^14   time=1580091.834068 us
+size=2^17   time=106386032.104492 us

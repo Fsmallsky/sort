@@ -1,0 +1,7 @@
+QUICK_SORT
+size=2^2    time=0.427654 us
+size=2^5    time=2.565923 us
+size=2^8    time=29.080458 us
+size=2^11   time=266.000658 us
+size=2^14   time=2677.112818 us
+size=2^17   time=26575.263590 us

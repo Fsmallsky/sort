@@ -1,0 +1,7 @@
+COUNTING_SORT
+size=2^2    time=582.892157 us
+size=2^5    time=383.605453 us
+size=2^8    time=384.460785 us
+size=2^11   time=452.885375 us
+size=2^14   time=559.798849 us
+size=2^17   time=3289.940767 us

@@ -1,0 +1,7 @@
+HEAP_SORT
+size=2^2     time=2.565927 us
+size=2^5     time=35.067671 us
+size=2^8     time=415.680202 us
+size=2^11    time=3739.411244 us
+size=2^14    time=34850.850701 us
+size=2^17    time=336990.058422 us
